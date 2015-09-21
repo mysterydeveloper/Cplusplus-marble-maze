@@ -1,0 +1,28 @@
+﻿Build started 07/12/2014 22:52:53.
+     1>Project "C:\Users\manusd\Desktop\C++\New folder\DirectX c++.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BoundingVolumes.cpp main.cpp Mesh.cpp Octree.cpp Utilities.cpp xAnimator\MeshHierarchy.cpp xAnimator\Utility.cpp xAnimator\XfileEntity.cpp
+         XfileEntity.cpp
+     1>c:\users\manusd\desktop\c++\new folder\xanimator\xfileentity.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         Utility.cpp
+     1>c:\users\manusd\desktop\c++\new folder\xanimator\utility.cpp(2): fatal error C1083: Cannot open include file: 'Dxerr.h': No such file or directory
+         MeshHierarchy.cpp
+     1>c:\users\manusd\desktop\c++\new folder\xanimator\meshhierarchy.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         Utilities.cpp
+     1>c:\users\manusd\desktop\c++\new folder\utilities.h(9): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         Octree.cpp
+     1>c:\users\manusd\desktop\c++\new folder\octree.h(7): warning C4005: 'STRICT' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(23) : see previous definition of 'STRICT'
+     1>c:\users\manusd\desktop\c++\new folder\octree.h(13): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         Mesh.cpp
+     1>c:\users\manusd\desktop\c++\new folder\boundingvolumes.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         main.cpp
+     1>c:\users\manusd\desktop\c++\new folder\main.cpp(14): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         BoundingVolumes.cpp
+     1>c:\users\manusd\desktop\c++\new folder\boundingvolumes.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\manusd\Desktop\C++\New folder\DirectX c++.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:10.48

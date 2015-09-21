@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CRAZYBADASS</Machine>
+    <WindowsUser>manusd</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>Microsoft.SDKSamples.MarbleMaze.CPP</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\manusd\Desktop\2nd year\programming\C++\Windows\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>DFA2B1943664FE955D812C6EDF5DE9E83AFC2013AF4CA21006BD8F346C4DDA50</RegisteredManifestChecksum>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Debug\MarbleMaze.Windows\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-07T22:37:46.500</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Debug\MarbleMaze.Windows\MarbleMaze.Windows.exe">
+      <PackagePath>MarbleMaze.Windows.exe</PackagePath>
+      <Modified>2015-09-21T13:21:03.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Debug\MarbleMaze.Windows\MarbleMaze.winmd">
+      <PackagePath>MarbleMaze.winmd</PackagePath>
+      <Modified>2014-12-07T22:37:43.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\squaretile-sdk.png">
+      <PackagePath>squaretile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-02T14:03:33.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\smalltile-windows-sdk.png">
+      <PackagePath>smalltile-windows-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-02T14:03:33.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\smalltile-phone-sdk.png">
+      <PackagePath>smalltile-phone-sdk.png</PackagePath>
+      <Modified>2014-12-02T14:03:33.368</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\storelogo-sdk.png">
+      <PackagePath>storelogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-02T14:03:34.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\splash-windows-sdk.png">
+      <PackagePath>splash-windows-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-02T14:03:33.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\splash-phone-sdk.png">
+      <PackagePath>splash-phone-sdk.png</PackagePath>
+      <Modified>2014-12-02T14:03:33.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\windowstitle-sdk.png">
+      <PackagePath>windowstitle-sdk.png</PackagePath>
+      <Modified>2014-12-02T14:03:34.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\mediumtile-sdk.png">
+      <PackagePath>mediumtile-sdk.png</PackagePath>
+      <Modified>2014-12-02T14:03:32.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\tile-sdk.png">
+      <PackagePath>tile-sdk.png</PackagePath>
+      <Modified>2014-12-02T14:03:34.321</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Textures\loadscreen.png">
+      <PackagePath>Media\Textures\loadscreen.png</PackagePath>
+      <Modified>2014-12-02T14:03:36.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Textures\bridge.dds">
+      <PackagePath>Media\Textures\bridge.dds</PackagePath>
+      <Modified>2014-12-02T14:03:35.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Textures\bridge_bump.dds">
+      <PackagePath>Media\Textures\bridge_bump.dds</PackagePath>
+      <Modified>2014-12-02T14:03:35.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Textures\cliff_sides.dds">
+      <PackagePath>Media\Textures\cliff_sides.dds</PackagePath>
+      <Modified>2014-12-02T14:03:35.566</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Textures\floor_section1.dds">
+      <PackagePath>Media\Textures\floor_section1.dds</PackagePath>
+      <Modified>2014-12-02T14:03:35.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Textures\floor_section2.dds">
+      <PackagePath>Media\Textures\floor_section2.dds</PackagePath>
+      <Modified>2014-12-02T14:03:36.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Textures\Marble.dds">
+      <PackagePath>Media\Textures\Marble.dds</PackagePath>
+      <Modified>2014-12-02T14:03:36.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Textures\topwall_color.dds">
+      <PackagePath>Media\Textures\topwall_color.dds</PackagePath>
+      <Modified>2014-12-02T14:03:36.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Textures\walllevel1.dds">
+      <PackagePath>Media\Textures\walllevel1.dds</PackagePath>
+      <Modified>2014-12-02T14:03:36.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Audio\background.wma">
+      <PackagePath>Media\Audio\background.wma</PackagePath>
+      <Modified>2014-12-02T14:03:34.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Audio\Checkpoint.wav">
+      <PackagePath>Media\Audio\Checkpoint.wav</PackagePath>
+      <Modified>2014-12-02T14:03:34.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Audio\MarbleFall.wav">
+      <PackagePath>Media\Audio\MarbleFall.wav</PackagePath>
+      <Modified>2014-12-02T14:03:34.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Audio\MarbleHit.wav">
+      <PackagePath>Media\Audio\MarbleHit.wav</PackagePath>
+      <Modified>2014-12-02T14:03:34.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Audio\MarbleRoll.wav">
+      <PackagePath>Media\Audio\MarbleRoll.wav</PackagePath>
+      <Modified>2014-12-02T14:03:34.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Audio\MenuChange.wav">
+      <PackagePath>Media\Audio\MenuChange.wav</PackagePath>
+      <Modified>2014-12-02T14:03:34.774</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Audio\MenuSelect.wav">
+      <PackagePath>Media\Audio\MenuSelect.wav</PackagePath>
+      <Modified>2014-12-02T14:03:34.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Models\Marble2.sdkmesh">
+      <PackagePath>Media\Models\Marble2.sdkmesh</PackagePath>
+      <Modified>2014-12-02T14:03:34.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Shared\Media\Models\Maze1.sdkmesh">
+      <PackagePath>Media\Models\Maze1.sdkmesh</PackagePath>
+      <Modified>2014-12-02T14:03:34.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Debug\MarbleMaze.Windows\BasicPixelShader.cso">
+      <PackagePath>BasicPixelShader.cso</PackagePath>
+      <Modified>2015-09-21T13:20:21.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Debug\MarbleMaze.Windows\BasicVertexShader.cso">
+      <PackagePath>BasicVertexShader.cso</PackagePath>
+      <Modified>2015-09-21T13:20:21.275</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manusd\Desktop\2nd year\programming\C++\Debug\MarbleMaze.Windows\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-07T22:37:46.188</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
